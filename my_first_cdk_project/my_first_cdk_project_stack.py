@@ -22,4 +22,4 @@ class MyFirstCdkProjectStack(core.Stack):
         # queue = sqs.Queue(
         #     self, "MyFirstCdkProjectQueue",
         #     visibility_timeout=Duration.seconds(300),
-        # )
+        # ))
